@@ -1,0 +1,8 @@
+{
+    "title": "Ejemplo de Internacionalización",
+    "description": "Este es un ejemplo basico para aprender i18next",
+    "button_text": "Haga clic aqui",
+    "footer_text": "Todos los derechos reservados.",
+    "image" : "/resources/es.jpg"
+}
+

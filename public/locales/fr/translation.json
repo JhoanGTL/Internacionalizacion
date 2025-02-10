@@ -1,0 +1,7 @@
+{
+    "title": "Exemple d´internationalisation",
+    "description": "ceci est un example de base pour apprende i8next",
+    "button_text": "cliquez ici",
+    "footer_text": "tous droits réservés.",
+    "image" : "/resources/fr.jpg"
+}

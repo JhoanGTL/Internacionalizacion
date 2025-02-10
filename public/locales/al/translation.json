@@ -1,0 +1,7 @@
+{
+    "title": "beispiel fur internalisierung.",
+    "description": "Dies ist ein grundlegendes beispiel zum lernen i18next.",
+    "button_text": "klicken sie hier.",
+    "footer_text": "Alle Rechte vorbehalten.",
+    "image" : "/resources/al.jpg"
+}

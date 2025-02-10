@@ -1,0 +1,7 @@
+{
+    "title": "Internationalization example.",
+    "description": "This is a basic example to learn i18next.",
+    "button_text": "Click here.",
+    "footer_text": "All rights reserved.",
+    "image" : "/resources/en.jpg"
+}
